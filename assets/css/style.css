@@ -255,3 +255,9 @@ section {
     color: #fce138;
 }
 /*Reach Out section End*/
+
+/* these two colors will override the ones above in .hero */
+.hero-secondary {
+    background-color: black;
+    color: red;
+  }
