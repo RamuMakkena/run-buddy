@@ -95,6 +95,18 @@ section {
     height: 600px;
     position: relative;
 }
+.hero-cta{
+    text-align:right;
+    width:60%;
+}
+.hero-cta h2{
+    font-size: 30px;
+    color: #fce138;
+}
+.hero-cta p{
+    color: #ffffff;
+}
+
 .hero-form{
     background-color: #fce138;
     padding: 20px;
