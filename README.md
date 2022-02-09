@@ -12,3 +12,5 @@ https://ramumakkena.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Ramu Makkena
+
+# Run Buddy Inc.
