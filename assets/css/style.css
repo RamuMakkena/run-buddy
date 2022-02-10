@@ -98,33 +98,32 @@ section {
     background-image: url("../images/hero-bg.jpeg");
     background-size: cover;
     background-position: center;
-    height: 600px;
-    position: relative;
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 .hero-cta{
-    text-align:right;
-    width:60%;
+    width: 35%;
+    text-align: right;
+    margin: 3.5%;
+    color:#fff;
+    font-size:18px;
+    line-height: 1.3;
 }
 .hero-cta h2{
-    font-size: 30px;
+    font-style: italic;
+    font-size: 55px;
     color: #fce138;
 }
-.hero-cta p{
-    color: #ffffff;
-}
-
 .hero-form{
     background-color: #fce138;
     padding: 20px;
-    width: 500px;
     color: #024e76;
     border-width: 3px;
     border-style:  solid;
     border-color:  #024e76;
-    position: absolute;
-    bottom: 120px;
-    right: 140px;
-
+    width:40%;
+    margin: 3.5%;
 }
 
 .hero .hero-form h3{
